@@ -1,16 +1,20 @@
-## Hi there 👋
+# About me
 
-<!--
-**abdullahnadeem00004/abdullahnadeem00004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hi there! 👋
+### I’m a computer science major at FAST NUCES Lahore, currently in my 5th semester. My interests span across:
+
+- Artificial Intelligence (AI) 🤖
+- Machine Learning (ML) 📈
+- Web Development 🌐
+- What I’m Up To:
+- 🌱 Learning and experimenting with AI algorithms.
+- 💻 Building web applications using modern tech stacks.
+- 📚 Exploring ML models and their applications.
+### Connect with Me:
+- 📫 Reach out via email: abdullahnadeem00004@gmail.com
+- 🐦 Follow me on Linkedin: abdullahnadeem00004
+#### Feel free to explore my repositories and drop a star if you find something interesting! 😊
+
